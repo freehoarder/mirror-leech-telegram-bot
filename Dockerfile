@@ -1,5 +1,4 @@
-FROM anasty17/mltb:latest
-
+FROM yagamikira/fuckyou:24ded49cb91dfeac2225b7da55dc50cacfee9c59
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
 
